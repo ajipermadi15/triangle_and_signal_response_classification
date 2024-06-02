@@ -1,2 +1,5 @@
-# triangle_classification
-Use of Multi Layer Perceptron in Triangle Classification
+#Information
+This repository contains 2 code sources and 1 report.
+This project was made to fulfill the assignment of an Engineering Data Science course.
+
+The report was written in Bahasa Indonesia.
